@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Una noche en Madrid
+
+This log tracks the cryptographic history and versioning for the song **Una noche en Madrid** (una-noche-en-madrid).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:15:22.969801 | `v1` | `ffa3ec5bb8cc3d70bd71428936c785b900c83b01edc50ece8ae2938daa60f621` | `b89e4006287887768ff13c1922d5f4d8d919c9128d24a5938a7d7d4ed7c84e63` | `2026-06-14_una-noche-en-madrid-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
