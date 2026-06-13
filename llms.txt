@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-noche-en-madrid/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Una noche en Madrid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-noche-en-madrid/) |
+| **Get License** | [License this song: Una noche en Madrid](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-noche-en-madrid/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3247)
 
 ---
 
