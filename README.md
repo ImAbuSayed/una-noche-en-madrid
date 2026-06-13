@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos por Madrid
+> Dejando los miedos, viviendo a más de mil
+> La disco está llena, pero yo te veo a ti
+> Bailando tan suave, acercándote a mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
